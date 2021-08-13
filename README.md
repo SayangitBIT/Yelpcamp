@@ -6,7 +6,7 @@ Fork the repository and clone it.
 Open your favourite Code Editor and write the following code to clone it
 
 ```bash
-git clone <your forked Repo url>
+git clone -b master <your forked url repo link>
 ```
 
 After cloning , type
