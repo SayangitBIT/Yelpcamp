@@ -24,7 +24,7 @@ install mongodb on your local system if not done before by following this link
 
 <a href='https://docs.mongodb.com/guides/server/install/'>mongodb install guide</a>
 
-Please ensure that once you are done installing, mongoDB is running in the background before starting up the server.
+Please ensure that once you are done installing, mongodb is running in the background before starting up the server.
 
 after this type the command below in your terminal (ps-node must be installed in your local system)
 
