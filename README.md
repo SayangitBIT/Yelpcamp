@@ -13,6 +13,7 @@ After cloning , type
 
 ```bash
 cd Yelpcamp
+cd Yelpcamp (yes type it once then enter and type it again and press enter)
 npm i
 ```
 
